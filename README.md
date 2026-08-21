@@ -24,3 +24,7 @@ Personal essays, reflections, and notes on life.
 
 2.浅更一下company相关吧，我想了一下我要做的产品凭什么能比得过大厂？凭什么大厂不会快速复刻一个。
 我的功能和多agent协作相比，真的有用吗？我必须去了解to b的产品比如说workbuddy。
+
+# 2026-08-21 10:20:54
+1.todolist来做事。
+2.早点睡觉，算我求自己了。
